@@ -1,0 +1,35 @@
+,beta_mean,beta_std
+01_Diabetes,711.656,21.76870298
+02_Thyroid Disease,99.039,1.946900871
+03_Other Metabolic Disorders,434.6185,9.520249327
+04_Dementia,56.8345,1.827072727
+05_Parkinson's Disease,50.978,2.263326534
+06_Depression,2093.057,34.10302248
+07_Eye Diseases,607.8265,17.50178834
+08_Ear Diseases,92.932,1.645303771
+09_Hypertension,837.3715,30.67204659
+10_Stroke,631.1515,17.98681899
+11_Heart Disease,929.1175,25.252236
+12_Other Cardiovascular Diseases,334.015,10.53429139
+13_Acute Nasopharyngitis,203.834,2.159400496
+14_Allergic Rhinitis,174.577,1.893038827
+15_Asthma,134.963,2.726100237
+16_Other Respiratory Diseases,408.28,8.319460229
+17_Stomach and Duodenal Diseases,153.489,7.609275425
+18_Liver and Gallbladder Diseases,314.668,12.64009177
+19_Dental Diseases,2036.1275,34.14129504
+20_Other Digestive Diseases,651.5495,13.64499312
+21_Skin Disease,400.9005,7.381596423
+22_Arthritis,188.076,4.068818133
+23_Arthropathy,304.8315,11.46291478
+24_Other musculoskeletal Pain,555.116,8.153911393
+25_Bone Density Abnormalities,48.424,0.802716015
+26_Kidney Diseases,1111.123,32.80211172
+27_Benign Prostatic Hyperplasia,54.551,2.340218793
+28_Fractures,497.2465,15.16276656
+29_Other Injuries,421.1005,10.026138
+30_Anemia and Blood Disorders,163.8415,4.449382794
+31_Cancer,2547.941,96.28268567
+32_Pregnancy and Childbirth,2.696,0.346997839
+33_Other Conditions,1733.5805,26.98987621
+34_Care Recipient,393.435,4.257678358
