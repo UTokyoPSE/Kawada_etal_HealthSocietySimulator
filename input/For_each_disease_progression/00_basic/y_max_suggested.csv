@@ -1,0 +1,35 @@
+disease_name,y_max
+01_Diabetes,0.1
+02_Thyroid Disease,0.05
+03_Other Metabolic Disorders,0.2
+04_Dementia,0.05
+05_Parkinson's Disease,0.05
+06_Depression,0.05
+07_Eye Diseases,0.1
+08_Ear Diseases,0.05
+09_Hypertension,0.3
+10_Stroke,0.05
+11_Heart Disease,0.05
+12_Other Cardiovascular Diseases,0.05
+13_Acute Nasopharyngitis,0.05
+14_Allergic Rhinitis,0.05
+15_Asthma,0.05
+16_Other Respiratory Diseases,0.05
+17_Stomach and Duodenal Diseases,0.05
+18_Liver and Gallbladder Diseases,0.05
+19_Dental Diseases,0.1
+20_Other Digestive Diseases,0.05
+21_Skin Disease,0.1
+22_Arthritis,0.05
+23_Arthropathy,0.05
+24_Other musculoskeletal Pain,0.2
+25_Bone Density Abnormalities,0.05
+26_Kidney Diseases,0.05
+27_Benign Prostatic Hyperplasia,0.05
+28_Fractures,0.05
+29_Other Injuries,0.05
+30_Anemia and Blood Disorders,0.05
+31_Cancer,0.05
+32_Pregnancy and Childbirth,0.05
+33_Other Conditions,0.05
+34_Care Recipient,0.1

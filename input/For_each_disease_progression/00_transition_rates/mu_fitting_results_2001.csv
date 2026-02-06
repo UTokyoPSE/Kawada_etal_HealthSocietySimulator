@@ -1,0 +1,35 @@
+,mu1,mu2,mu3
+01_Diabetes,0.0,0.0,0.001025286
+02_Thyroid Disease,0.0,0.0,9.65e-05
+03_Other Metabolic Disorders,0.0,0.0,0.000193042
+04_Dementia,0.0,0.0,0.001263637
+05_Parkinson's Disease,0.0,0.0,0.02547588
+06_Depression,0.0,0.0,0.001599189
+07_Eye Diseases,0.0,0.0,0.0
+08_Ear Diseases,0.0,0.0,0.0
+09_Hypertension,0.0,0.0,5.65e-05
+10_Stroke,0.0,0.0,0.013266411
+11_Heart Disease,0.0,0.0,0.013855863
+12_Other Cardiovascular Diseases,0.0,0.0,0.002881591
+13_Acute Nasopharyngitis,0.0,0.0,0.000456471
+14_Allergic Rhinitis,0.0,0.0,0.0
+15_Asthma,0.0,0.0,0.000847496
+16_Other Respiratory Diseases,0.0,0.0,0.014811956
+17_Stomach and Duodenal Diseases,0.0,0.0,0.000359798
+18_Liver and Gallbladder Diseases,0.0,0.0,0.007815601
+19_Dental Diseases,0.0,0.0,0.0
+20_Other Digestive Diseases,0.0,0.0,0.003051461
+21_Skin Disease,0.0,0.0,0.000216986
+22_Arthritis,0.0,0.0,0.000354706
+23_Arthropathy,0.0,0.0,0.0
+24_Other musculoskeletal Pain,0.0,0.0,7.37e-06
+25_Bone Density Abnormalities,0.0,0.0,0.0
+26_Kidney Diseases,0.0,0.0,0.003791051
+27_Benign Prostatic Hyperplasia,0.0,0.0,0.0
+28_Fractures,0.0,0.0,0.003526503
+29_Other Injuries,0.0,0.0,0.064519881
+30_Anemia and Blood Disorders,0.0,0.0,0.001714934
+31_Cancer,0.0,0.0,0.183056879
+32_Pregnancy and Childbirth,0.0,0.0,0.0
+33_Other Conditions,0.0,0.0,0.004821519
+34_Care Recipient,0.0,0.0,3.74075e-05
